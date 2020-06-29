@@ -3,7 +3,7 @@ import numpy as np
 count = 0
 sum = 0
 isfloat = True
-isflaot2= True
+# isflaot2= True
 plz = "Please enter a number!"
 while isfloat:
     many = input("How many numbers do you want to enter? : ")
